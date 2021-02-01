@@ -67,7 +67,8 @@
 				AD0C514122CA22D800AADC4D /* LaunchScreen.storyboard */,
 				AD0C514422CA22D800AADC4D /* Info.plist */,
 			);
-			path = "Calculator Layout iOS13";
+			name = "Calculator Layout iOS13";
+			path = "Calculator-Design";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
